@@ -1,28 +1,17 @@
-# Hi, I'm Sujith 👋
+#Hey there! 👋  
+I'm Sujith, a 1st year CSE student at MIT Bengaluru.
 
-🎓 1st year CSE student at MIT Bengaluru  
-💻 Focused on backend development with Python and DSA (Python → Java)
+I build web applications with a strong focus on backend development using Python, and I’m comfortable with frontend fundamentals.
 
-I like building backend systems, solving problems, and learning by doing.
+I also solve DSA problems (Python → Java) and enjoy breaking down complex logic.
 
----
+My current tech stack includes Python, Django, FastAPI, Java, and core frontend technologies.
 
-## What I Do
-- Build backend APIs using **Django** and **FastAPI**
-- Solved **250+ DSA problems on LeetCode**
-- Exploring real-world backend engineering
+I’ve solved 250+ problems on LeetCode and continue to improve daily.
 
----
+I’m currently open to internship opportunities and starting my open-source journey.
 
-## Currently
-- Open to **internship opportunities**
-- Starting my **open-source journey**
-
----
-
-## Fun Facts
-- Play **chess**
-- Read **manga**
-- Rewatch **feel-good movies**
-
----
+Fun facts:
+- I play chess
+- I read manga
+- I rewatch feel-good movies
