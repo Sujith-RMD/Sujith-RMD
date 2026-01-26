@@ -1,4 +1,4 @@
-#Hey there! 👋  
+# Hey there! 👋  
 I'm Sujith, a 1st year CSE student at MIT Bengaluru.
 
 I build web applications with a strong focus on backend development using Python, and I’m comfortable with frontend fundamentals.
