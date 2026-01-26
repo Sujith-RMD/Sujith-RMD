@@ -26,7 +26,3 @@ I like building backend systems, solving problems, and learning by doing.
 - Rewatch **feel-good movies**
 
 ---
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/sujithkumar-r-267630378/
-- LeetCode: https://leetcode.com/u/SujithKumar-R/
