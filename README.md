@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sujith 👋
 
-<!--
-**Sujith-RMD/Sujith-RMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st year CSE student at MIT Bengaluru  
+💻 Focused on backend development with Python and DSA (Python → Java)
 
-Here are some ideas to get you started:
+I like building backend systems, solving problems, and learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+- Build backend APIs using **Django** and **FastAPI**
+- Solved **250+ DSA problems on LeetCode**
+- Exploring real-world backend engineering
+
+---
+
+## Currently
+- Open to **internship opportunities**
+- Starting my **open-source journey**
+
+---
+
+## Fun Facts
+- Play **chess**
+- Read **manga**
+- Rewatch **feel-good movies**
+
+---
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/sujithkumar-r-267630378/
+- LeetCode: https://leetcode.com/u/SujithKumar-R/
