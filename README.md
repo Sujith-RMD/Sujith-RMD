@@ -5,7 +5,7 @@ I build web applications with a strong focus on backend development using Python
 
 I also solve DSA problems (Python → Java) and enjoy breaking down complex logic.
 
-My current tech stack includes Python, Django, FastAPI, Java, and core frontend technologies.
+My current tech stack includes C, Python, Java, FastAPI and core frontend technologies.
 
 I’ve solved 250+ problems on LeetCode and continue to improve daily.
 
