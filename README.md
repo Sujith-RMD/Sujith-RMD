@@ -15,7 +15,7 @@ I focus on backend development using Python and FastAPI, building structured and
 - Tools: Git, GitHub  
 
 ## 🎯 Currently Working On
-- Structured DSA practice (NeetCode 250)  
+- Structured DSA practice
 - Backend development with clean architecture  
 - Preparing for technical interviews  
 
