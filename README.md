@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/Sujith-RMD"><img src="https://img.shields.io/badge/GitHub-Sujith--RMD-181717?style=flat-square&logo=github" /></a>
-  <a href="https://linkedin.com/in/sujithkumar-r-267630378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sujithkumar-r-267630378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SujithKumar-R/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <img src="https://komarev.com/ghpvc/?username=Sujith-RMD&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
@@ -60,22 +61,28 @@ When I'm not writing code, I'm sharpening my problem-solving through consistent 
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <a href="https://github.com/Sujith-RMD/RoadSense-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sujith-RMD&repo=RoadSense-AI&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sujith-RMD&repo=RoadSense-AI&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
+&nbsp;
+<a href="https://github.com/Sujith-RMD/SecureFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sujith-RMD&repo=SecureFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </a>
 
-> **RoadSense AI** — A multi-agent AI system that monitors Reddit, news, YouTube & weather data to detect road infrastructure damage across Indian cities before complaints are filed. Built with Amazon Bedrock, Lambda, and DynamoDB for the AI for Bharat Hackathon 2026.
+> **RoadSense AI** — Multi-agent AI system that monitors Reddit, news, YouTube & weather data to detect road infrastructure damage across Indian cities before complaints are filed. Built with Amazon Bedrock, Lambda, and DynamoDB.
+
+> **SecureFlow** — Real-time UPI fraud prevention system that scores every transaction before confirmation using 6 behavioral rules and 40+ scam keyword detections. Built with React, TypeScript, and FastAPI.
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
