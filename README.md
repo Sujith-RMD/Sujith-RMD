@@ -17,7 +17,6 @@
   <a href="https://leetcode.com/u/SujithKumar-R/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sujith-RMD&style=flat-square&color=blue" />
 </p>
 
 ---
