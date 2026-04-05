@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Animated Header Typing SVG -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Sujith+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I%27m+Sujith+%F0%9F%91%8B" alt="Typing Header" />
   </h1>
 
   <p>
