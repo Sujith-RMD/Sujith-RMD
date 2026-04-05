@@ -1,7 +1,9 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="60" />
+
   <!-- Animated Header Typing SVG -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I%27m+Sujith+%F0%9F%91%8B" alt="Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=36&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I%27m+Sujith+%F0%9F%91%8B" alt="Typing Header" />
   </h1>
 
   <p>
@@ -11,13 +13,13 @@
   <!-- Social Badges -->
   <p>
     <a href="https://github.com/Sujith-RMD">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-CC0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/sujithkumar-r-267630378/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-3B4CCA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://leetcode.com/u/SujithKumar-R/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-FFDE00?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
 </div>
@@ -39,9 +41,11 @@ I'm a **Computer Science** student at MIT Bengaluru who thrives on solving compl
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,fastapi,js,html,css,git&theme=dark&perline=8" alt="Tech Stack" />
   </a>
+  <br><br>
 </div>
 
 ---
@@ -65,5 +69,7 @@ When I'm not architecting systems or writing code, you can find me:
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30"/>
+  <br>
   <em>"First, solve the problem. Then, write the code."</em><br>
 </p>
