@@ -54,7 +54,7 @@ I'm a **Computer Science** student at MIT Bengaluru who thrives on solving compl
 ## 🚀 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sujith-RMD&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Sujith-RMD&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
