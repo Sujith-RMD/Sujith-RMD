@@ -21,6 +21,7 @@
     <a href="https://leetcode.com/u/SujithKumar-R/">
       <img src="https://img.shields.io/badge/LeetCode-FFDE00?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    <a href="https://sujithkumar-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a>
   </p>
 </div>
 
