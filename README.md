@@ -1,76 +1,61 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="60" />
 
-  <!-- Animated Header Typing SVG -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=36&duration=3000&pause=1000&color=FFCB05&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I%27m+Sujith+%F0%9F%91%8B" alt="Typing Header" />
-  </h1>
+# Sujith Kumar R
 
-  <p>
-    <em>Building structured, efficient, and scalable backend systems.</em>
-  </p>
+**Backend Engineer · Python, FastAPI, AWS**
 
-  <!-- Social Badges -->
-  <p>
-    <a href="https://github.com/Sujith-RMD">
-      <img src="https://img.shields.io/badge/GitHub-CC0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/sujithkumar-r-267630378/">
-      <img src="https://img.shields.io/badge/LinkedIn-3B4CCA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/SujithKumar-R/">
-      <img src="https://img.shields.io/badge/LeetCode-FFDE00?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.sujithkumar.dev/"> <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a>
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujith-RMD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujithkumar-r-267630378/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sujithkumar.dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SujithKumar-R/)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science** student at MIT Bengaluru who thrives on solving complex problems. My core focus lies in **Backend Development**, leveraging clean architecture and well-structured APIs to build performant systems. I consistently practice Data Structures & Algorithms (DSA) to sharpen my logic and interview readiness.
+Backend-focused CS student at MIT Bengaluru building scalable systems with Python, FastAPI, and AWS.
 
-- 🔭 **Currently Building:** Production-grade RESTful APIs and modern scalable systems
-- ⚙️ **Core Focus:** Python, FastAPI, and robust software architecture
-- ⚔️ **Daily Routine:** Conquering LeetCode and leveling up algorithms
-- 🌱 **Always Learning:** Exploring new system design patterns and cloud tooling
-- 💬 **Ask me about:** Python, backend optimizations, and API design
+I enjoy designing APIs, architecting modular services, and understanding how systems behave under real-world constraints. Recent work includes:
+
+- **CloudSeer** — AWS cost intelligence platform with LOF anomaly detection, Prophet forecasting, and one-click EC2 auto-remediation · *3rd Place, TechSolstice '26*
+- **RoadSense AI** — 5-agent road damage detection pipeline on AWS Bedrock with independent, swappable agents
+- **SecureFlow** — Real-time UPI fraud prevention API scoring transactions in under 80ms across 9 behavioral rules
+- **Pneumonia-AI** — MobileNetV2 chest X-ray classifier with Grad-CAM explainability · *~93% accuracy, ~0.97 ROC-AUC*
+
+Active open source contributor under GSSoC '26 · 5 merged PRs · LeetCode ~1600
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,fastapi,js,html,css,git&theme=dark&perline=8" alt="Tech Stack" />
-  </a>
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,aws,docker,ts,react,postgres,git,linux,github&theme=dark&perline=10" alt="Tech Stack" />
 </div>
 
 ---
 
-## 🚀 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Sujith-RMD&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujith-RMD&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🎯 Outside the Terminal
 
-When I'm not architecting systems or writing code, you can find me:
-
-- ♟️ **Playing Chess** — *I approach development the same way I play chess: thinking several moves ahead.*
-- 📚 **Reading Manga** — *Immersing myself in fascinating fictional worlds.*
-- 🎬 **Watching Movies** — *Enjoying feel-good cinema to recharge.*
+- ♟️ **Chess** — I approach system design the same way: thinking several moves ahead.
+- 🏔️ **Trekking** — Western Ghats for now. Annapurna Base Camp eventually.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30"/>
-  <br>
-  <em>"First, solve the problem. Then, write the code."</em><br>
-</p>
+<div align="center">
+  <em>Engineering systems built to hold under pressure.</em>
+</div>
