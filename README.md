@@ -31,7 +31,7 @@ Active open source contributor under GSSoC '26 · 5 merged PRs · LeetCode ~1600
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,aws,docker,ts,react,postgres,git,linux,github&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,aws,docker,ts,react,postgres,github&theme=dark&perline=8" alt="Tech Stack" />
 </div>
 
 ---
@@ -39,8 +39,8 @@ Active open source contributor under GSSoC '26 · 5 merged PRs · LeetCode ~1600
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
