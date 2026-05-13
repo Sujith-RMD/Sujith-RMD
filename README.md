@@ -39,12 +39,17 @@ Active open source contributor under GSSoC '26 · 5 merged PRs · LeetCode ~1600
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujith-RMD&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujith-RMD&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
