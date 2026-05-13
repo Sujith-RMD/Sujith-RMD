@@ -40,9 +40,7 @@ Active open source contributor under GSSoC '26 · 5 merged PRs · LeetCode ~1600
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujith-RMD&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujith-RMD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Sujith-RMD&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
