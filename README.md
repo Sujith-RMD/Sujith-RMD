@@ -37,12 +37,10 @@ and whatever the job description asks for
 
 ## current status
 
-```
-[x] write code
-[x] push to GitHub
-[ ] get into Google
-[ ] figure out what i'm doing
-```
+- [x] write code
+- [x] push to GitHub
+- [ ] get into Google
+- [ ] figure out what i'm doing
 
 ---
 
