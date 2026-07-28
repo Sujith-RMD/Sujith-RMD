@@ -43,11 +43,3 @@ and whatever the job description asks for
 - [ ] figure out what i'm doing
 
 ---
-
-<div align="center">
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujith-RMD&hide_border=true&theme=dark&background=000000)
-
-*the streak must continue*
-
-</div>
