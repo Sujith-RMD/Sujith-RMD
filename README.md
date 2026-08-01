@@ -119,37 +119,9 @@ Contributed across multiple open-source codebases, working on **backend APIs, se
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts,fastapi,django,flask,postgres,mysql,sqlite,aws,docker,git" />
 </p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
