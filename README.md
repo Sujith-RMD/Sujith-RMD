@@ -93,7 +93,6 @@ Deep-learning chest X-ray classifier using MobileNetV2 with Grad-CAM explainabil
 | 🥉 **TechSolstice 2026** | **3rd Place** — CloudSeer |
 | 🥇 **GirlScript Summer of Code 2026** | **A-Tier • Global Rank ~91 • 15+ Merged PRs** |
 | 🏅 **HackOverflow 9.0** | **11th / 561 teams • Solo** |
-| 🏅 **Neura AI Hackathon** | **4th / 100+ teams** |
 | 💻 **LeetCode** | **425+ Problems • 1650+ Contest Rating** |
 
 ---
