@@ -131,9 +131,7 @@ Contributed across multiple open-source codebases, working on **backend APIs, se
 </p>
 
 <p align="center">
-  <img
-       src="https://streak-stats.demolab.com/?user=Sujith-RMD&theme=tokyonight&hide_border=false"
-       alt="Sujith Kumar's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Sujith-RMD&theme=tokyonight&hide_border=true" alt="Sujith-RMD's GitHub Stats" />
 </p>
 
 ---
