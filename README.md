@@ -9,7 +9,7 @@
 
 - 🎓 B.Tech CSE student at **Manipal Institute of Technology, Bengaluru** — Class of 2029
 - 🐍 Building backend systems with **Python, FastAPI & AWS**
-- 📚 **425+ LeetCode problems solved** | Contest Rating **1650+**
+- 📚 **450+ LeetCode problems solved** | Contest Rating **1650+**
 - 🤝 **GSSoC 2026** — A-Tier | Global Rank **~91** | **15+ merged PRs across backend, security & tooling**
 - 🌱 Exploring **System Design, Databases & Distributed Systems**
 - 🚀 Interested in **Backend Engineering, Cloud & Scalable Systems**
